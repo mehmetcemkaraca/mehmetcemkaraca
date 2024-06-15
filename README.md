@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Mehmet Cem 👋
 
-<!--
-**mehmetcemkaraca/mehmetcemkaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm currently working on Cryptology, .Net, Java, Python, PHP, and Artificial Intelligence.
+- 🌱 I'm always open to learning and improving.
+- 👯 I have 3 years of software experience and have been involved in many different projects during this time.
 
-Here are some ideas to get you started:
+## Contact
+- 📫 You can reach me here: Mehmetcemkr@gmail.com
+- 💼 LinkedIn: Mehmet Cem Karaca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+```python
+languages_and_tools = {
+    "backend": ["Java", ".Net", "Python", "PHP"],
+    "frontend": ["HTML", "CSS", "JavaScript"],
+    "database": ["MySQL", "SQLite"],
+    "devops": ["Docker", "Nginx", "Linux", "Bash"],
+    "tools": ["GIT", "GitHub"],
+    "misc": ["Firebase", "Socket.IO"]
+}
